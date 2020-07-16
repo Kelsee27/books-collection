@@ -26,7 +26,7 @@ public class BookList
     names[17] = "The Meg";
     names[18] = "Fountainhead" 
     names[19] = "The borne identity";  
-    names[20] = "Scar Tissue";
+    names[20] = "Scar tissue";
 
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
